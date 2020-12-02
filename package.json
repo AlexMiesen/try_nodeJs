@@ -1,0 +1,26 @@
+{
+  "name": "try_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_appendfile.js",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.16",
+    "upper-case": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMiesen/try_nodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMiesen/try_nodeJs/issues"
+  },
+  "homepage": "https://github.com/AlexMiesen/try_nodeJs#readme"
+}
